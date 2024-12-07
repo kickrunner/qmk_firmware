@@ -1,6 +1,3 @@
-// increase layer count from 4 to 5 for additional sticky modifier layer
-#define DYNAMIC_KEYMAP_LAYER_COUNT 5
-
 // Configure the global tapping term (default: 200ms)
 #define TAPPING_TERM 200
 
@@ -11,4 +8,4 @@
 #define PERMISSIVE_HOLD
 
 // timeout for one shot modifiers, don't let them stick forever in to prevent cases were you already forgot you activated them etc.
-#define ONESHOT_TIMEOUT 5000
+#define ONESHOT_TIMEOUT 3000
