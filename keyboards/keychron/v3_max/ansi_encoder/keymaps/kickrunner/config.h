@@ -1,3 +1,6 @@
+// increase layer count from 4 to 5 for additional sticky modifier layer
+#define DYNAMIC_KEYMAP_LAYER_COUNT 5
+
 // Configure the global tapping term (default: 200ms)
 #define TAPPING_TERM 200
 
